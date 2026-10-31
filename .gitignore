@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+outputs/
+.env
+dataset/
+*.zip
+*.pth
+*.h5
+data/
+temp_uploaded_audio.wav
